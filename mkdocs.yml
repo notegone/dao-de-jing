@@ -1,7 +1,6 @@
 site_name: Dao De Jing
 theme:
   name: 'material'
-  custom_dir: 'overrides'
 markdown_extensions:
   - toc:
       permalink: true
